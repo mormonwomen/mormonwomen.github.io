@@ -6,6 +6,10 @@
     font-family: "PT Serif", serif !important;
 }
 
+.droid {
+    font-family: "Droid Sans", sans-serif !important;
+}
+
 body.golding section p {
     font-size: 22px;
     font-weight: 300;
