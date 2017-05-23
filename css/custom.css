@@ -221,6 +221,12 @@ section ol.list li {
     list-style-position: outside;
 }
 
+section .list.p li {
+    margin-left: 45px;
+    font-size: 26px;
+    line-height: 1.385;
+}
+
 .notice {
     padding: 15px;
 }
