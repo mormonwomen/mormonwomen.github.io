@@ -10,6 +10,49 @@
     font-family: "Droid Sans", sans-serif !important;
 }
 
+/**
+ * Color Scheme
+ */
+.schemeMain {
+    color: #bbb2b5;
+}
+
+.schemeLight {
+    color: #f9faf9;
+}
+
+.schemeAccent {
+    color: #eaa985;
+}
+
+.schemeMid {
+    color: #b0857d;
+}
+
+.schemeDark {
+    color: #c2563c;
+}
+
+.bg.schemeMain {
+    background-color: #bbb2b5;
+}
+
+.bg.schemeLight {
+    background-color: #f9faf9;
+}
+
+.bg.schemeAccent {
+    background-color: #eaa985;
+}
+
+.bg.schemeMid {
+    background-color: #b0857d;
+}
+
+.bg.schemeDark {
+    background-color: #c2563c;
+}
+
 body.golding section p {
     font-size: 22px;
     font-weight: 300;
